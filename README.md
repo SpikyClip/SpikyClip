@@ -44,8 +44,6 @@ to hear more about any opportunities.
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikesh.ajith@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikeshajith/)
 
----
-
 ## 🛠️ Skills
 ### 📖 Languages
 
@@ -68,7 +66,6 @@ to hear more about any opportunities.
 ### ✍🏾 Learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 ## 📈 Statistics
 [![SpikyClip's GitHub stats](https://github-readme-stats.vercel.app/api?username=spikyclip&hide=stars&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 [![SpikyClip's GitHub stats](https://github-readme-stats.vercel.app/api?username=spikyclip&hide=stars&count_private=true&show_icons=true&theme=ayu-mirage#gh-gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
