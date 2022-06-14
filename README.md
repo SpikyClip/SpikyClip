@@ -67,11 +67,11 @@ to hear more about any opportunities.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📈 Statistics
-[![SpikyClip's GitHub stats](https://github-readme-stats.vercel.app/api?username=spikyclip&hide=stars&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![SpikyClip's GitHub stats](https://github-readme-stats.vercel.app/api?username=spikyclip&hide=stars&count_private=true&show_icons=true&theme=ayu-mirage#gh-gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![SpikyClip's GitHub stats](https://github-readme-stats.vercel.app/api?username=spikyclip&hide=stars&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![SpikyClip's GitHub stats](https://github-readme-stats.vercel.app/api?username=spikyclip&hide=stars&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spikyclip&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spikyclip&layout=compact&theme=ayu-mirage#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spikyclip&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spikyclip&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![SpikyClip's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spikyclip&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![SpikyClip's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spikyclip&theme=ayu-mirage#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![SpikyClip's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spikyclip&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![SpikyClip's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spikyclip&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
