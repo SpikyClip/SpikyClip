@@ -5,10 +5,10 @@
 ## 👨🏾‍💻 About me
 I am a **masters graduate in Biotechnology and Bioinformatics** from **La Trobe
 University**. Before studying at La Trobe, I completed my **Bachelor of
-Agriculture** at the **University of Melbourne** as a William Allen Stewart
-Scholar. My honours thesis research focused on the **impacts of soil pH on the
-disease severity of soilborne pathogens of field tomatoes**, and the experience
-gave me a strong foundation in statistics and experimental design.
+Agriculture** at the **University of Melbourne**. My honours thesis research
+focused on the **impacts of soil pH on the disease severity of soilborne
+pathogens of field tomatoes**, and the experience gave me a strong foundation
+in statistics and experimental design.
 
 I am a self-taught programmer who developed his passion for coding through
 [Rosalind](https://rosalind.info/users/SpikyClip/) bioinformatics problems, and
@@ -24,6 +24,8 @@ groundwork for processing large volumes of RNA-seq data from plant species
 `setuptools`-based, unit-tested (`pytest`) **CLI package for generating various
 machine learning features from RNA-seq data**. 
 - Deployed the above software in a **Linux cluster environment**.
+- **Analysing RNA-seq data** in the `R` language through `DESeq2` and
+  visualising results in `GGplot2` and `UpsetR`.
 
 The experience ignited my passion for **data pipeline engineering in biology**,
 and applying **computer science best practices** in the field of
@@ -46,25 +48,25 @@ to hear more about any opportunities.
 
 ## 🛠️ Skills
 ### 📖 Languages
+Click the badges to see a list of language-specific projects.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-3ac486?style=for-the-badge)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![GNU Bash](https://img.shields.io/badge/GNU_BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/SpikyClip/lists/python)
+[![Nextflow](https://img.shields.io/badge/Nextflow-3ac486?style=for-the-badge)](https://github.com/stars/SpikyClip/lists/nextflow-projects)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/stars/SpikyClip/lists/r-projects)
+[![GNU Bash](https://img.shields.io/badge/GNU_BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/stars/SpikyClip/lists/nextflow-projects)
+[![SQL](https://img.shields.io/badge/-SQL-E95420?style=for-the-badge)](https://github.com/stars/SpikyClip/lists/sql-projects)
 
 ### 👨🏾‍💻 Software
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
+[![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#)
 ### 🖥️ OS
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 ### ✍🏾 Learning
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 
 ## 📈 Statistics
 [![SpikyClip's GitHub stats](https://github-readme-stats.vercel.app/api?username=spikyclip&hide=stars&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
