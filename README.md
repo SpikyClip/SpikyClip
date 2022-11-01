@@ -18,8 +18,7 @@ and tools. For example:
 
 - Developed a 𝚗𝚎𝚡𝚝𝚏𝚕𝚘𝚠 pipeline for processing RNA-seq data, **cutting a
 3-day manual process to an overnight automated workflow**. This laid the
-groundwork for processing large volumes of RNA-seq data from plant species
-(e.g. 𝘊𝘢𝘯𝘯𝘢𝘣𝘪𝘴 𝘴𝘢𝘵𝘪𝘷𝘢).
+groundwork for processing large volumes of RNA-seq data.
 - Refactored a collection of `python2` scripts into a `python3`
 `setuptools`-based, unit-tested (`pytest`) **CLI package for generating various
 machine learning features from RNA-seq data**. 
