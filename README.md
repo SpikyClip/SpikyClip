@@ -42,7 +42,6 @@ there were plenty of canola fields...)
 I would love to hear from you! I'm always happy to discuss my experiences and
 to hear more about any opportunities.
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikesh.ajith@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikeshajith/)
 
 ## 🛠️ Skills
